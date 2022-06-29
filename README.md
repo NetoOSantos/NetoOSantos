@@ -1,4 +1,4 @@
-<img align="right" src ="Neon-PNG-Clipart.png" alt = "planta" height="200px">
+<img align="right" src ="Neon-PNG-Free-Image.png" alt = "planta" height="200px">
 
 # Olá, Seja bem vindo(a)
 
