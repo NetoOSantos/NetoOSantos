@@ -26,7 +26,7 @@
   </p>
   </div>
   
-  <p>Se precisar de alguma coisa é só me chamar !! 
+  <p> Follow me!! 
   <br>
   <br>
   <a href="mailto:walderley.neto@bandtec.com.br" target="_blank" alt="Outlook">
