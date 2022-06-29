@@ -1,8 +1,6 @@
 <img align="right" src ="Neon-PNG-Image-HD.png" style="transform:rotate(90deg);" alt = "planta" height="400px">
 
-# Olá, Seja bem vindo(a)
-
-<p> Fico feliz que tenha encontrado minha página 😃<br>
+# Hello World!!
   
 <div align="left">
   <p> Meu nome é Neto, Sou estudante de Análise e Desenvolvimento de Sistemas na faculdade SPTech </>. </p>
