@@ -1,5 +1,5 @@
 <img align="right" src ="Neon-PNG-Image-HD.png" alt = "planta" height="200px">
-<img align="right" src ="2621040.png" alt = "planta" height="200px">
+<p><img align="right" src ="2621040.png" alt = "planta" height="200px"></p>
 
 # Olá, Seja bem vindo(a)
 
