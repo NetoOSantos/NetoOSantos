@@ -1,4 +1,4 @@
-<img align="right" src ="Neon-PNG-Free-Image.png" alt = "planta" height="200px">
+<img align="right" src ="Neon-PNG-Clipart.png" alt = "planta" height="200px">
 
 # Olá, Seja bem vindo(a)
 
@@ -7,7 +7,7 @@
 <div align="left">
   <p> Meu nome é Neto, Sou estudante de Análise e Desenvolvimento de Sistemas na faculdade SPTech </>. </p>
 
-<p> Algumas das linguagens e ferramentas que eu trabalho:
+<p> Algumas das linguagens e ferramentas que eu utilizo:
   <br>
   <br>  
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript"/>
