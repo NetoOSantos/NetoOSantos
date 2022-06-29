@@ -1,4 +1,4 @@
-<img align="right" src ="Neon-PNG-Image-HD.png" style="transform:rotate(90deg)" alt = "planta" height="300px">
+<img align="right" src ="Neon-PNG-Image-HD.png" style="transform:rotate(90deg);" alt = "planta" height="300px">
 
 # Olá, Seja bem vindo(a)
 
