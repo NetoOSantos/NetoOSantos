@@ -5,35 +5,19 @@
 <div align="left">
   <p> Meu nome é Neto, Sou estudante de Análise e Desenvolvimento de Sistemas na faculdade SPTech </>. </p>
 
-<p> Algumas das linguagens e ferramentas que eu utilizo:
-  <br>
-  <br>  
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/><br>
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="sql server" />
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell" /><br>
-  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="sap" /><br>
-  </p>
-  </div>
-
-## 📊 Github stats
+## Github stats
 <p align="center">
   <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Neto Santos Github Stats" src="https://github-readme-stats.vercel.app/api/?username=NetoOSantos&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 </p>  
   <br/>
 <!-- https://github.com/NetoOSantos/github-activity-readme -->
-  <summary>⚡ Recent GitHub Activity</summary>
+## Recent GitHub Activity
   <br/>
 <p align="center">    
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Neto Santos Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NetoOSantos&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
 
-## 🔥 Streak stats
+## Streak stats
 
 <p align="center">
   <a href="https://github.com/NetoOSantos/github-readme-streak-stats">
@@ -43,7 +27,7 @@
 
 ##
 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)<br>
+  ![Snake animation](https://github.com/NetoOSantos/NetoOSantos/blob/output/github-contribution-grid-snake.svg)<br>
   
 ##  
 
