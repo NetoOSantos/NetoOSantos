@@ -3,7 +3,9 @@
 # Hello World!!
   
 <div align="left">
-  <p> Meu nome é Neto, Sou estudante de Análise e Desenvolvimento de Sistemas na faculdade SPTech </>. </p>
+  <p> Sou um apaixonado Software Engineer com sólida experiência em desenvolvimento de soluções back-end. Com base em São Paulo, Brasil, tenho dedicado minha carreira à criação de sistemas eficientes e escaláveis que impulsionam o crescimento de grandes projetos. Busco constantemente desafios que me permitam expandir meus conhecimentos e habilidades. Sou apaixonado por tecnologia e acredito que o desenvolvimento de soluções inovadoras pode fazer a diferença no mundo. Se você busca um profissional dedicado, comprometido e pronto para agregar valor ao seu time, estou à disposição para colaborar em projetos ambiciosos. Vamos conectar e explorar oportunidades juntos!
+
+#SoftwareEngineer #Java #BackEndDevelopment #CleanCode #Scrum #SpringFramework #SQL #GitFlow #AWS #Azure #PowerBI. </p>
 
 ## Github stats
 <p align="center">
