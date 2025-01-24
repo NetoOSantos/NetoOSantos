@@ -3,7 +3,13 @@
 # Hello World!!
   
 <div align="left">
-  <p> Sou um apaixonado Software Engineer com sólida experiência em desenvolvimento de soluções back-end. Com base em São Paulo, Brasil, tenho dedicado minha carreira à criação de sistemas eficientes e escaláveis que impulsionam o crescimento de grandes projetos. Busco constantemente desafios que me permitam expandir meus conhecimentos e habilidades. Sou apaixonado por tecnologia e acredito que o desenvolvimento de soluções inovadoras pode fazer a diferença no mundo. Se você busca um profissional dedicado, comprometido e pronto para agregar valor ao seu time, estou à disposição para colaborar em projetos ambiciosos. Vamos conectar e explorar oportunidades juntos!
+  <p> Passionate Software Engineer with solid experience in backend development. Based in 
+        São Paulo, Brazil, I have dedicated my career to building efficient and scalable systems 
+        that drive the growth of large-scale projects. I constantly seek challenges that allow me to 
+        expand my knowledge and skills. Enthusiastic about technology, I believe innovative 
+        solutions can make a difference in the world. If you are looking for a dedicated and 
+        committed professional ready to add value to your team, I am eager to collaborate on 
+        ambitious projects. 
 
 #SoftwareEngineer #Java #BackEndDevelopment #CleanCode #Scrum #SpringFramework #SQL #GitFlow #AWS #Azure #PowerBI. </p>
 
@@ -20,14 +26,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Neto Santos Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NetoOSantos&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
 
 ## Streak stats
-
-<p align="center">
-  <a href="https://github.com/NetoOSantos/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com/?user=NetoOSantos&theme=monokai-metallian&hide_border=true"/>
-  </a>
-</p>
  
-
   <p>
  ## Follow me!! 
   <br>
@@ -36,8 +35,6 @@
   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/walderley-neto-a26390206/" target="_blank" alt="Linkedin">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a><br>
-  <a href="https://www.instagram.com/netotolkien.jpg/" target="_blank" alt="Instagram">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://steamcommunity.com/id/netotolkien/" target="_blank" alt="Steam">
   <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a><br>
   </p>
